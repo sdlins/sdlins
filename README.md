@@ -4,6 +4,12 @@
 ### Server Side Languages
 ![Top Langs](https://github-readme-stats-sdlins.vercel.app/api/top-langs/?username=sdlins&hide=classic%20asp,javascript,html,tsql,css,roff,shell&layout=compact&langs_count=10)
 
+### Client Side Languages
+![Top Langs](https://github-readme-stats-sdlins.vercel.app/api/top-langs/?username=sdlins&hide=classic%20asp,tsql,roff,shell,java,php,asp&layout=compact&langs_count=10)
+
+### Other Languages
+![Top Langs](https://github-readme-stats-sdlins.vercel.app/api/top-langs/?username=sdlins&hide=classic%20asp,roff,java,php,asp,html,css,javascript&layout=compact&langs_count=10)
+
 
 
 <!--
