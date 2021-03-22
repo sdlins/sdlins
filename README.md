@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats-sdlins.vercel.app/api?username=sdlins&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-sdlins.vercel.app/api?username=sdlins&count_private=true&hide_rank=true&include_all_commits=true&show_icons=true&theme=dracula)
 
 ### Server Side Languages
 ![Top Langs](https://github-readme-stats-sdlins.vercel.app/api/top-langs/?username=sdlins&hide=classic%20asp,javascript,html,tsql,css,roff,shell,batchfile,python&layout=compact&langs_count=10&exclude_repo=cef%2dminutas,cef%2dminutas%2drenegociacao,cef%2dprorrogacao,cef%2dpcc,cef%2dlista%2dcoop,cef%2dsifec,cef%2dseguro,cef%2dsifis,cef%2drcn)
