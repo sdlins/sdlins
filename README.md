@@ -1,7 +1,7 @@
 
 ## General Stats
 
-![Stats](https://github-readme-stats-sdlins.vercel.app/api?username=sdlins&count_private=true&hide_rank=true&include_all_commits=true&show_icons=true&theme=dracula&custom_title=My%20Stats)
+![Stats](https://github-readme-stats-sdlins.vercel.app/api?username=sdlins&count_private=true&hide_rank=true&hide=contribs&include_all_commits=true&show_icons=true&theme=dracula&custom_title=My%20Stats)
 
 -----
 
